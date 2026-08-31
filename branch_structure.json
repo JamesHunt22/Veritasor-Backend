@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/947-integrations-generate-auth-url-coverage",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/947-integrations-generate-auth-url-coverage": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/947-integrations-generate-auth-url-coverage",
+    "origin"
+  ]
+}
